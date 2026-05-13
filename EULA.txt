@@ -1,0 +1,77 @@
+streampec - End User License Agreement
+
+By clicking "Agree", you accept these terms.
+
+
+1. License grant
+
+streampec is proprietary software owned by Bootleg Cheeseburger, LLC.
+You are granted a personal, non-exclusive, non-transferable, revocable
+license to install and use streampec on Apple computers you own or
+control, for personal or internal commercial use.
+
+You may not: redistribute the software or compiled binaries; sell,
+sublicense, rent, or lease the software; reverse engineer, decompile,
+or disassemble the software except to the extent that applicable law
+expressly permits; remove or alter any copyright, trademark, or
+proprietary notices; or use the software in a manner that violates
+applicable law.
+
+
+2. No warranty
+
+The software is provided "AS IS", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and non-infringement.
+
+
+3. Limitation of liability
+
+To the maximum extent permitted by law, in no event shall Bootleg
+Cheeseburger, LLC be liable for any claim, damages, or other
+liability - including direct, indirect, incidental, special,
+consequential, or exemplary damages, lost profits, lost session data,
+session corruption, hearing damage, or damage to audio equipment -
+arising from or in connection with the software or its use.
+
+
+4. Pro audio use
+
+streampec drives a Stream Deck XL as a control surface for Pro Tools
+via PTSL. State is mirrored from Pro Tools and key presses issue
+RPCs. You are responsible for monitoring playback levels and the
+session state; do not use streampec for safety-critical workflows or
+broadcast where an unintended REC/MUTE/SOLO toggle could cause harm.
+
+
+5. Third-party components
+
+streampec links open-source libraries. Those components remain
+governed by their respective licenses; nothing in this EULA restricts
+your rights under those licenses with respect to the component itself.
+
+
+6. Privacy
+
+streampec does not collect, transmit, or store personal data outside
+your machine. It speaks to a locally configured Pro Tools PTSL endpoint
+(default localhost:31416) and to your USB-attached Stream Deck. No
+analytics, no auto-update, no remote logging. Preferences live in
+~/Library/Application Support/streampec/.
+
+
+7. Termination
+
+This license terminates automatically if you fail to comply with its
+terms. On termination you must stop using the software and delete all
+copies.
+
+
+8. Governing law
+
+This agreement is governed by the laws of the State of Georgia, USA,
+without regard to conflict-of-laws principles.
+
+
+If you do not agree to these terms, click "Disagree" and streampec
+will exit without starting.
