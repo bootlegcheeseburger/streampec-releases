@@ -38,7 +38,7 @@ Local only. streampec talks to:
 - Your USB-attached Stream Deck XL
 - `buymeacoffee.com/bootlegcheeseburger` only when you click the donate menubar item
 
-No analytics, no auto-update, no telemetry. Full text in the [EULA](EULA.txt).
+No analytics, no auto-update, no telemetry. Full text in the EULA (`EULA.txt` in the DMG, also shown on first launch).
 
 ## Support
 
@@ -52,4 +52,4 @@ Open an [issue](../../issues). Source is closed; this repo accepts user-facing b
 
 ## License
 
-streampec is proprietary software. Use of the app is governed by the [EULA](EULA.txt) shown on first launch. © 2026 Bootleg Cheeseburger, LLC. All rights reserved.
+streampec is proprietary software. Use of the app is governed by the EULA shown on first launch (`EULA.txt` in each release DMG). © 2026 Bootleg Cheeseburger, LLC. All rights reserved.
