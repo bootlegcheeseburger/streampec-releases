@@ -52,4 +52,4 @@ Open an [issue](https://github.com/bootlegcheeseburger/streampec-releases/issues
 
 streampec is proprietary software. Use of the app is governed by the EULA shown on first launch (`EULA.txt` in each release DMG). © 2026 Bootleg Cheeseburger, LLC. All rights reserved.
 
-Product and company names are trademarks of their respective owners; their mention does not imply affiliation or endorsement. Pro Tools is a trademark or registered trademark of Avid Technology, Inc. macOS is a trademark of Apple Inc., registered in the U.S. and other countries.
+macOS is a trademark of Apple Inc., registered in the U.S. and other countries. Pro Tools is a trademark or registered trademark of Avid Technology, Inc. Other product and company names are trademarks of their respective owners; their mention does not imply affiliation or endorsement.
