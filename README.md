@@ -4,7 +4,7 @@
 
 # streampec
 
-> A PEC-DIR control surface for macOS, in your menu bar.
+> A PEC-DIR control surface for macOS®, in your menu bar.
 
 ## What it does
 
@@ -16,7 +16,7 @@ streampec turns a button deck into a tactile control surface for your DAW, with 
 2. Drag streampec into `/Applications`.
 3. On first launch, accept the End User License Agreement.
 
-Works with Pro Tools 2025.12+ (scripting enabled: `Preferences -> Synchronization -> Enable PTSL`) and Stream Deck XL; macOS 11+.
+Works with Pro Tools software 2025.12 or later (scripting enabled: `Preferences -> Synchronization -> Enable PTSL`) and the Stream Deck XL controller; macOS 11+.
 
 ## Configuration
 
@@ -52,4 +52,4 @@ Open an [issue](https://github.com/bootlegcheeseburger/streampec-releases/issues
 
 streampec is proprietary software. Use of the app is governed by the EULA shown on first launch (`EULA.txt` in each release DMG). © 2026 Bootleg Cheeseburger, LLC. All rights reserved.
 
-Product and company names are trademarks of their respective owners; their mention does not imply affiliation or endorsement.
+Product and company names are trademarks of their respective owners; their mention does not imply affiliation or endorsement. Pro Tools is a trademark or registered trademark of Avid Technology, Inc. macOS is a trademark of Apple Inc., registered in the U.S. and other countries.
